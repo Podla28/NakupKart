@@ -1,0 +1,2 @@
+# NakupKart
+vaja
